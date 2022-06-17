@@ -1,6 +1,6 @@
 <!-- ## Hi there 👋 -->
 
-<p align="center"><a href="#"><img src="https://i.ibb.co/CvRPL2n/107575202-removebg-preview.png"/></a></p>
+<p align="center"><a href="#"><img width="300px" src="https://i.ibb.co/FX7dYGP/fg1.png"/></a></p>
 
 <!--
 
