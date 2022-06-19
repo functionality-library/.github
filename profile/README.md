@@ -2,6 +2,8 @@
 
 <p align="center"><a href="#"><img width="300px" src="https://i.ibb.co/FX7dYGP/fg1.png"/></a></p>
 
+### What is Functionality
+> it is a small organization that aims to make your work easier and faster
 <!--
 
 **Here are some ideas to get you started:**
